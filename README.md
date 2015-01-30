@@ -38,7 +38,6 @@ Para executar o Bower, basta clicar com o botão direito sobre o arquivo **bower
 
 ![](images/Bower.jpg)
 
-
 ## NPM de dentro do Visual Studio ##
 Para executar o NPM, basta clicar o botão direito sobre o arquivo **packages.js** que no menu de contexto será exibido a opção **NPM install packages**.
 
@@ -51,3 +50,7 @@ Para executar rotinas Grunt, basta clicar o botão direito sobre o arquivo **gru
 Durante a execução uma rotina, a mesma ficará marcada até que o processo seja finalizado.
 
 ![](images/Grunt.jpg)
+
+Para atualizar todos os pacotes, basta clicar com o botão direito sobre o diretório **bower_components** que no menu de contexto será exibido a opção **Bower: Update all packages**.
+
+Para atualizar um pacote especícico, basta clicar com o botão direito sobre o diretório **bower_components/paco_desejavel** que no menu de contexto será exibido a opção **Bower: Update pacote_desejavel**.
