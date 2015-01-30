@@ -1,4 +1,4 @@
-# Integração Visual Studio 2013 + NodeJs + Bower + Grunt + SASS  #
+# Integração Visual Studio 2013 + NodeJs + Bower + Gulp + Grunt + SASS  #
 
 Seguindo os passos abaixo você poderá automatizar processos utilizados em ambiente de desenvolvimento front end de dentro do Visual Studio 2013.
 
@@ -42,6 +42,12 @@ Para executar o Bower, basta clicar com o botão direito sobre o arquivo **bower
 Para executar o NPM, basta clicar o botão direito sobre o arquivo **packages.js** que no menu de contexto será exibido a opção **NPM install packages**.
 
 ![](images/Npm.jpg)
+
+
+## Gulp de dentro do Visual Studio ##
+Para executar rotinas Gulp, basta clicar o botão direito sobre o arquivo **gulpfile.js** que no menu de contexto será exibido um submenu com o nome **Gulp** e nele conterá todas as rotinas possíveis para execução.
+
+![](images/Gulp.jpg)
 
 
 ## Grunt de dentro do Visual Studio ##
