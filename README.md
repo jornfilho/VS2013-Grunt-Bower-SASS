@@ -1,4 +1,4 @@
-# Integração Visual Studio 2013 + NodeJs + Bower + Gulp + Grunt + SASS  #
+# Integração Visual Studio 2013 + NodeJs + Bower + Gulp + Grunt + Ruby + SASS  #
 
 Seguindo os passos abaixo você poderá automatizar processos utilizados em ambiente de desenvolvimento front end de dentro do Visual Studio 2013.
 
