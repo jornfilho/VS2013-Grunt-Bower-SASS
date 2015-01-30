@@ -59,4 +59,4 @@ Durante a execução uma rotina, a mesma ficará marcada até que o processo sej
 
 Para atualizar todos os pacotes, basta clicar com o botão direito sobre o diretório **bower_components** que no menu de contexto será exibido a opção **Bower: Update all packages**.
 
-Para atualizar um pacote especícico, basta clicar com o botão direito sobre o diretório **bower_components/paco_desejavel** que no menu de contexto será exibido a opção **Bower: Update pacote_desejavel**.
+Para atualizar um pacote especícico, basta clicar com o botão direito sobre o diretório **bower_components/pacote_desejavel** que no menu de contexto será exibido a opção **Bower: Update pacote_desejavel**.
